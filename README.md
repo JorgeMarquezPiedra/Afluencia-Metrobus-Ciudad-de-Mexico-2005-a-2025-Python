@@ -9,7 +9,7 @@
 
 ## Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la afluencia de pasajeros en el Metrobus de la Ciudad de México. El objetivo es identificar patrones de movilidad, impacto de eventos históricos y tendencias estacionales a lo largo de 20 años.
 
-**![Afluencia promedio por año y mes (2005-2015)](img/afluencia_heatmap_anio_mes.png)**
+**![Afluencia promedio por año y mes (2005-2015)](img/afluencia_heatmap_anio_mes_personalizado.png)**
 
 **![Afluencia promedio por línea (2005-2015)](img/afluencia_promedio_por_linea.png)**
 
