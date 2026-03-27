@@ -9,18 +9,18 @@
 
 ## Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la afluencia de pasajeros en el Metrobus de la Ciudad de México. El objetivo es identificar patrones de movilidad, impacto de eventos históricos y tendencias estacionales a lo largo de 20 años.
 
-**![Afluencia promedio por año y mes (2005-2015)](img/afluencia_heatmap_anio_mes_personalizado.png)**
+**![Afluencia promedio por año y mes (2005-2025)](img/afluencia_heatmap_anio_mes_personalizado.png)**
 
-**![Afluencia promedio por línea (2005-2015)](img/afluencia_promedio_por_linea.png)**
+**![Afluencia promedio por línea (2005-2025)](img/afluencia_promedio_por_linea.png)**
 
-**![Variabilidad de afluencia por línea (2005-2015)](img/boxplot_por_linea.png)**
+**![Variabilidad de afluencia por línea (2005-2025)](img/boxplot_por_linea.png)**
 
-**![Afluencia total por año (2005-2015)](img/afluencia_total_por_año.png)**
+**![Afluencia total por año (2005-2025)](img/afluencia_total_por_año.png)**
 
-**![Afluencia promedio por mes (2005-2015)](img/afluencia_por_mes.png)**
+**![Afluencia promedio por mes (2005-2025)](img/afluencia_por_mes.png)**
 
-**![Afluencia promedio por día (2005-2015)](img/afluencia_por_dia.png)**
+**![Afluencia promedio por día (2005-2025)](img/afluencia_por_dia.png)**
 
-**![Histograma de afluencia histórica (2005-2015)](img/histograma_afluencia.png)**
+**![Histograma de afluencia histórica (2005-2025)](img/histograma_afluencia.png)**
 
 ## Los datos fueron obtenidos del [Portal de Datos Abiertos de la Ciudad de México](https://datos.cdmx.gob.mx/).
